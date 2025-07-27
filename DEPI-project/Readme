@@ -1,0 +1,7 @@
+This folder contain the graduation project of depi scolarship and its documentation,
+The project talks about analysis of the UK train rides dataset,
+and I used Power BI tool to do the project,
+I did the ETL full process on Power BI from extracting the data from various sources,
+then transforming, cleaning, and modeling the dataset,
+Then applying data analysis and extract various KPIs from the dataset,
+Finally, applying the dashboards reports showing the buisness overall performance, every page report contain specific details.
