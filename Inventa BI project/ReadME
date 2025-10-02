@@ -1,0 +1,5 @@
+This Folder contain all my work during my internship at Jadara Solutions as I was semantic modeler & BI developer.
+
+The warehouse schema was of type Galaxy schema so we had '3' fact tables.
+
+I have done semantic model 'for' every fact, then made live connection with power BI to do the reports and dashboards.
