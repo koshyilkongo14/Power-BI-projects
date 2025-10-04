@@ -1,0 +1,7 @@
+This project shows the sales 'for' online store,
+I have used Power BI 'for' this project applied full ETL process starting from importing the data from
+its source into uploading the data to power query and applying data cleaning and transformation process,
+then applying data modeling as I used snowflake schema 'for' this data.
+
+Then moving into building the semantic layer using DAX queries,
+the final step was building the dasboard and showing business overall performance.
